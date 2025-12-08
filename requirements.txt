@@ -4,5 +4,5 @@ pandas
 joblib
 python-dotenv
 pymongo
-scikit-learn
+scikit-learn 
 xgboost
