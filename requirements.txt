@@ -1,8 +1,8 @@
-fastapi
-uvicorn
-pandas
-joblib
-python-dotenv
-pymongo
-scikit-learn 
-xgboost
+fastapi==0.115.2
+uvicorn==0.30.3
+pandas==2.2.2
+joblib==1.4.2
+python-dotenv==1.0.1
+pymongo==4.8.0
+scikit-learn==1.5.1
+xgboost==2.1.1
